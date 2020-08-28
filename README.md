@@ -1,1 +1,1 @@
-My reinforcement algorithms
+My Reinforcement Learning Algorithms
